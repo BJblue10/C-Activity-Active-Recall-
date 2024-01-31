@@ -6,6 +6,6 @@ int main() {
     int cat = 20;
     int cow = 50; 
     // Print 
-      std::cout << cat+dog - cow ; 
+    cout << cat+dog - cow ; 
     return 0;
 }
